@@ -1,0 +1,9 @@
+{
+  "name": "local-lambda",
+  "version": "1.0.0",
+  "description": "run aws lambda local",
+  "main": "index.js",
+  "repository": "https://github.com/deissh/local-lambda",
+  "author": "deissh <kudryavtsev@nppsatek.ru>",
+  "license": "MIT"
+}
